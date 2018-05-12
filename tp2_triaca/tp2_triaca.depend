@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1506086530 source:c:\users\luis\desktop\learn_space\tp2_triaca\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1506086704 c:\users\luis\desktop\learn_space\tp2_triaca\funciones.h
+
+1506086515 source:c:\users\luis\desktop\learn_space\tp2_triaca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1506117133 source:c:\users\rocio\onedrive\documentos\utn\programacion 1 - laboratorio 1\tp's\tp_2_cascara\rocio\rocio\tp2_triaca\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1506117133 c:\users\rocio\onedrive\documentos\utn\programacion 1 - laboratorio 1\tp's\tp_2_cascara\rocio\rocio\tp2_triaca\funciones.h
+
+1526087057 source:c:\users\rocio\onedrive\documentos\utn\programacion 1 - laboratorio 1\tp's\tp_2_cascara\rocio\rocio\tp2_triaca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
